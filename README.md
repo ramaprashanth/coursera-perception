@@ -1,2 +1,3 @@
-# coursera-perception
-Coursera Robotics: Perception by Penn Engineering
+# Coursera Robotics: Perception
+
+Coursera Course Robotics: Perception by Penn Engineering
